@@ -1,3 +1,6 @@
+# React notepad app
+Using React, I built the Notepad app, which has some basic features like adding a new note or deleting an old note.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
